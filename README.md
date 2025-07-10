@@ -1,13 +1,13 @@
 # PRODIGY_SD_02
 Task 02 – Number Guessing Game in Python | Prodigy Infotech Software Development Internship
-📝 Description:
+# 📝 Description:
 
 This is a Python-based number guessing game. The program randomly selects a number between 1 and 100. The user keeps guessing until they find the correct number. After each guess, the program tells if the guess is too high or too low, and finally shows how many attempts were needed.
 
 
 ---
 
-🔤 Input:
+# 🔤 Input:
 
 User enters a number (guess), like:
 
@@ -16,7 +16,7 @@ Enter your guess: 50
 
 ---
 
-🖥️ Output:
+# 🖥️ Output:
 
 Welcome to the Guessing Game!
 I'm thinking of a number between 1 and 100.
